@@ -1,0 +1,88 @@
+
+[
+    {
+        "title": "Python",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/225px-Python-logo-notext.svg.png",
+        "level": "Intermediate"
+    },
+    {
+        "title": "JavaScript",
+        "icon": "https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png",
+        "level": "Intermediate"
+    },
+    {
+        "title": "React.js",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/330px-React_Logo_SVG.svg.png",
+        "level": "Intermediate"
+    },
+    {
+        "title": "MySQL",
+        "icon": "https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg",
+        "level": "Advanced"
+    },
+    {
+        "title": "React Router",
+        "icon": "https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg",
+        "level": "Intermediate"
+    },
+    {
+        "title": "TailwindCSS",
+        "icon": "https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg",
+        "level": "Advanced"
+    },
+    {
+        "title": "Bootstrap",
+        "icon": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "HTML",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "CSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "TypeScript",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png",
+        "level": "Basic"
+    },
+    {
+        "title": "Java",
+        "icon": "https://abrudz.github.io/logos/Java.svg",
+        "level": "Intermediate"
+    },
+    {
+        "title": "Flask",
+        "icon": "https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg",
+        "level": "Basic"
+    },
+    {
+        "title": "Pandas",
+        "icon": "https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "NumPy",
+        "icon": "https://vectorseek.com/wp-content/uploads/2023/08/Numpy-Logo-Vector.svg-.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "Scikit-learn",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/375px-Scikit_learn_logo_small.svg.png",
+        "level": "Basic"
+    },
+    {
+        "title": "Matplotlib",
+        "icon": "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png",
+        "level": "Advanced"
+    },
+    {
+        "title": "Jupyter Lab",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/180px-Jupyter_logo.svg.png",
+        "level": "Intermediate"
+    }
+]

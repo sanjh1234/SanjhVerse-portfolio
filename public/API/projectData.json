@@ -1,0 +1,52 @@
+[
+  {
+    "title": "ToDo List",
+    "icon": "/ProjectImage/toDo.png",
+    "info": "A simple and efficient To-Do List app built with React.js, allowing users to add, delete, and mark tasks as complete. Clean UI and responsive design make it ideal for daily task tracking.",
+    "tech": [
+      "React.js",
+      "JavaScript",
+      "Tailwind CSS",
+      "Local Storage",
+      "Hooks"
+    ],
+    "link": "https://sanjhverse-todolist.netlify.app/"
+  },
+  {
+    "title": "Student Management System",
+    "icon": "/ProjectImage/stdMang2.png",
+    "info": "A full-featured Student Management System built using Python (Flask) and MySQL. It allows for efficient student data entry, updates, search, and deletion, with a user-friendly interface and secure database integration.",
+    "tech": ["Python", "MySQL", "Flask- Framework"],
+    "link": "https://www.linkedin.com/posts/sanjh-raj_python-tkinter-mysql-activity-7225189189221335041-_k7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtL4EcBrhfDVCvtAoAKB5PlSVEwNJjFOnk"
+  },
+  {
+    "title": "Catch The Pokemon",
+    "icon": "/ProjectImage/catchPokemon.png",
+    "info": "A dynamic Pokémon Cards display app built with React.js and the PokéAPI. It fetches real-time Pokémon data and presents each one as a styled card with name, image, and types. Fast, responsive, and fun to explore!",
+    "tech": ["React.js", "JavaScript", "API Integration", "Tailwind CSS"],
+    "link": "https://sanjhverse-catchthepokemon.netlify.app/"
+  },
+  {
+    "title": "SanjhVerse",
+    "icon": "/ProjectImage/portfolio.png",
+    "info": "A space-themed personal portfolio crafted with React.js and Tailwind CSS, showcasing my projects, skills, and journey through the universe of development. Inspired by galaxies and guided by code, SanjhVerse reflects my passion for tech, creativity, and exploration.",
+    "tech": ["React.js", "TypeScript", "React Router"],
+    "link": "https://sanjhverse-portfolio.netlify.app/"
+  },
+  {
+    "title": "AI-powered Energy Manager",
+    "icon": "/ProjectImage/AI-projImg.jpg",
+    "info": "An intelligent system that monitors and optimizes energy usage using Arduino, Python, and Machine Learning. It detects on/off device states, records power data, and predicts usage patterns to reduce energy waste and enhance efficiency.",
+    "tech": [
+      "Python",
+      "Jupyter Notebook",
+      "Machine Learning",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "IoT (Arduino)",
+      "Data Analytics"
+    ],
+    "link": ""
+  }
+]
